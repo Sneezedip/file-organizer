@@ -1,1 +1,1 @@
-# file-organizer
+**The code is a Python script that allows users to organize their files on their desktop into specific folders. It presents the user with a menu of different file types and allows them to select which types of files they want to organize.**
