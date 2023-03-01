@@ -5,9 +5,13 @@ The File Organizer is a Python script that helps you keep your desktop organized
 ## Supported File Types
 
 Images: .jpg, .jpeg, .png, .gif
+
 Videos: .mp4, .mkv, .avi, .flv, .mov
+
 Music: .mp3, .wav, .ogg
+
 Documents: .pdf, .doc, .docx, .xls, .xlsx, .ppt, .pptx
+
 Programming Files: .py, .pyw, .java, .html, .css, .js, .cpp, .c, .h
 
 ## Usage
